@@ -1,0 +1,45 @@
+Identity: constructor
+Identity: constructor
+Identity: copy constructor
+name:无名氏     ID number:123456
+name:李华       ID number:654321
+name:李华       ID number:654321
+
+Enter name:周杰伦
+Enter ID number:145236
+name:周杰伦     ID number:145236
+
+Identity: copy constructor
+Identity: copy constructor
+Student：constructor
+Identity: distructor
+Identity: copy constructor
+Student: copy constructor
+School：中山大学        name:周杰伦     ID number:145236
+School：中山大学        name:周杰伦     ID number:145236
+
+Enter name:东方
+Enter ID number:952766
+Enter the school of student：实验中学
+
+Identity: copy constructor
+School：实验中学        name:东方       ID number:952766
+
+Identity: constructor
+Identity: copy constructor
+Identity: copy constructor
+Student：constructor
+Identity: distructor
+Identity: distructor
+School：清华大学        name:林俊杰     ID number:666666
+
+Student: distructor
+Identity: distructor
+Identity: distructor
+Student: distructor
+Identity: distructor
+Student: distructor
+Identity: distructor
+Identity: distructor
+Identity: distructor
+Identity: distructor
